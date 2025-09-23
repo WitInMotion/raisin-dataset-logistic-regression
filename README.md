@@ -37,7 +37,6 @@ The goal is to build a machine learning model that classifies raisin varieties (
 accuracy                           0.89       180
 macro avg 0.89 0.89 0.89 180
 weighted avg 0.89 0.89 0.89 180
----
 
 ##  Requirements
 - Python 3.8+
